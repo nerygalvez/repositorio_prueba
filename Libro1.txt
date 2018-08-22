@@ -1,0 +1,3 @@
+Este es el contenido de mi primer libro, lo que quiero es ver cómo maneja Git los cambios.
+
+Aún me confunde cómo funciona.
